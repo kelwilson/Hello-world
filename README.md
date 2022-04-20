@@ -2,27 +2,21 @@
 
 # Project Name
 
-> Description the project.
+> Hello Microverse
 
 
 ## Built With
 
-- Major languages
+- html/css
 - Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
+- gitbash, github, vs code
 
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+**my first microverse project. testing my skills on what i have learned so far, using gitbash, github and vs code. practicing the best coding practices and how to use linters for debugging and syntax error checks**
 
 
-To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
@@ -40,17 +34,14 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Author1**
+👤 **kelwilson**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/kelwilson)
+- Twitter: [@twitterhandle](https://twitter.com/BesongMaris)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/kelly-besong-b33074237)
 
-👤 **Author2**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+
 
 ## 🤝 Contributing
 

@@ -17,6 +17,14 @@
 **my first microverse project. testing my skills on what i have learned so far, using gitbash, github and vs code. practicing the best coding practices and how to use linters for debugging and syntax error checks**
 
 
+### To Access my project locally you can follow these steps
+
+1. Enter this url:  https://github.com/kelwilson/Hello-world in your web browser.
+2. Once opened navigate to the top left level of the project a green code download button will be visible on the righthand side.
+3. Select download Zip option from drop down menu.
+4. Once the download is complete you will be able to access my project locally.
+Here is my repository link:  https://github.com/kelwilson/Hello-world
+
 
 ### Prerequisites
 
